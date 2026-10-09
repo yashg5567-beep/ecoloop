@@ -1,0 +1,6 @@
+{
+  "name": "EcoLoop: Smart Waste & E-Waste Circularity Agent",
+  "description": "Waste Less. Recover More. AI-powered waste & e-waste circularity assistant with safety warnings, impact & scrap value calculators, nearby facilities map, and business sustainability logging.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
